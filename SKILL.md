@@ -4,7 +4,8 @@ description: When someone is experiencing shame (or shaming others), diagnose wh
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4958
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - shame-resilience-check
 - storytelling
